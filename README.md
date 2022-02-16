@@ -82,12 +82,6 @@ This introduction to Python will kickstart your learning of Python for data scie
     * Demonstrate how to create a text file by using the open function.
     * Demonstrate how to use NumPy to create multi-dimensional arrays.
 
-**Graded:** Reading Files with Open\
-**Graded:** Writing files with open\
-**Graded:** Pandas\
-**Graded:** One Dimensional Numpy\
-**Graded:** Two Dimensional Numpy
-
 ### WEEK 5
 
 #### Analyzing US Economic Data and Building a Dashboard
@@ -95,17 +89,4 @@ This introduction to Python will kickstart your learning of Python for data scie
 * **Key Concepts**
     * Create a dashboard that shows key economic indicators from a specific data set.
 
-**Graded:** Analyzing US Economic Data and Building a Dashboard
 
-#
-#
-This course is part of the **IBM Data Science Professional Certificate**\
-![IBM](https://i.imgur.com/j6yW3WS.png)
-
-
-#### ***Kudos!!!***
-
-Warm Regards, \
-Piyush Sambhi \
-Email: piyush.sambhi07@icloud.com \
-Git URL: https://github.com/sambhipiyush
