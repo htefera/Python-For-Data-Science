@@ -7,7 +7,7 @@
 
 This introduction to Python will kickstart your learning of Python for data science, as well as programming in general
 
-* Module 1 - Python Basics
+* [Module 1 - Python Basics](https://github.com/htefera/Python-For-Data-Science/tree/master/Module-1)
     * Your first program
     * Types
     * Expressions and Variables
